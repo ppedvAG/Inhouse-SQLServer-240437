@@ -1,6 +1,3 @@
-# Inhouse-SQLServer-240432
-KursRepository zu Kurs Inhouse: SQL Server der ppedv AG
-
 AndreasR@ppedv.de
 7.0  2008 2012
 
@@ -20,34 +17,34 @@ SQL 2016 Sp1 ab dieser Version viele Enterprisefeatures
 
 ## DIE DB
 ### Physischen Datenbankentwurf optimieren
-### Seiten BlÃ¶cke
+### Seiten Blöcke
 ### Daten komprimieren
 
-## AusfÃ¼hrungsplÃ¤ne
-### Was ist der AusfÃ¼hrungsplan und warum brauch ich den
-### AusfÃ¼hrungsplÃ¤ne verstehen
-### Logische Schritte der AbfrageausfÃ¼hrung
+## Ausführungspläne
+### Was ist der Ausführungsplan und warum brauch ich den
+### Ausführungspläne verstehen
+### Logische Schritte der Abfrageausführung
 
 ## Indizes
 ### Warum sind Indizes so wichtig
 ### Von Heaps, Clustered und Non Clustered Indizes
 ### und warum muss man das Zeug kennen
 ### Arten von Indizes und wo sind die Vorteile und wo die Nachteile?
-### Warum sollte man diese gut und tÃ¤glich pflegen
-### IndexÃ¼berwachung mit Datenauflistungen
+### Warum sollte man diese gut und täglich pflegen
+### Indexüberwachung mit Datenauflistungen
 ### Partitionierung mit Indizes
 ### Auffinden geeigneter Indizes
 ### Die Rolle von Statistiken
 
 
-## Kurzer RÃ¼ckblick:. Was ist das fÃ¼r ein Zeug?
+## Kurzer Rückblick:. Was ist das für ein Zeug?
 ### Procs Views Functions
-### Welche eklatanten Fehler kÃ¶nnen in Sichten passieren?
-### Warum lÃ¼gt uns SQL Server bei Funktionen an?
+### Welche eklatanten Fehler können in Sichten passieren?
+### Warum lügt uns SQL Server bei Funktionen an?
 ### warum sind Pocs mal gut mal extrem schlecht
 
 ## Monitoring
-### AktivitÃ¤tsmonitor
+### Aktivitätsmonitor
 ### QueryStore
 ### Dynamische Verwaltungssichten
 ### Perfmon
@@ -57,7 +54,7 @@ SQL 2016 Sp1 ab dieser Version viele Enterprisefeatures
 
 ## Intelligente Abfrageverarbeitung in SQL
 ### Warum ist mir die Reihenfolge der JOINS rel egal
-### SQL Server kann ab Version x Abfragen optimieren â€“ was aber wenn ich eine Ã¤ltere Version verwende
+### SQL Server kann ab Version x Abfragen optimieren – was aber wenn ich eine ältere Version verwende
 ### was kann man von IQPs lernen
 ### Abfragen analysieren und optimieren
 ### Parametrisierte Abfragen - Parameter Sniffing
